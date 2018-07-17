@@ -7,6 +7,7 @@ IDE: IntelliJ
 
 Comprimido con comandos de Angular CLI ng build --prod
 
+# Al gunas reglas o imposiciones del juego:
 * Máximo 24 cartas
 * No se puede insertar el número 0
 * No se pueden insertar letras
